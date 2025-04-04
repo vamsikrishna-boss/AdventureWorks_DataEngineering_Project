@@ -39,8 +39,9 @@ The project starts with raw data stored in Azure Blob Storage and walks through 
 
 
 ## 🗺️ Architecture Diagram
-PNG
-PNG
+  ![image](https://github.com/vamsikrishna-boss/AdventureWorks_DataEngineering_Project/blob/main/Screenshot%20(66).png)
+  ![image](https://github.com/vamsikrishna-boss/AdventureWorks_DataEngineering_Project/blob/main/Screenshot%202025-04-04%20123037.png)
+  ![image](https://github.com/vamsikrishna-boss/AdventureWorks_DataEngineering_Project/blob/main/Screenshot%202025-04-03%20132809.png)
 
 ## 🗂️ Data Flow Stages:
 
@@ -89,17 +90,20 @@ PNG
 
    * Create release pipelines to automate deployment of resources.
 
+![image](https://github.com/vamsikrishna-boss/AdventureWorks_DataEngineering_Project/blob/main/pipeline.png)
+![image](https://github.com/vamsikrishna-boss/AdventureWorks_DataEngineering_Project/blob/main/Screenshot%202025-04-02%20235854.png)
+
 ## 📦 Project Highlights
 
-   * ✅ Real-time orchestration of pipelines via triggers.
+    * ✅ Real-time orchestration of pipelines via triggers.
 
-   * ✅ Secure authentication using Key Vault.
+    * ✅ Secure authentication using Key Vault.
 
-   * ✅ Modular PySpark notebooks for transformation logic.
+    * ✅ Modular PySpark notebooks for transformation logic.
 
-   * ✅ SQL Pools for data warehousing and querying.
+    * ✅ SQL Pools for data warehousing and querying.
 
-   * ✅ Monitoring and error handling built in.     
+    * ✅ Monitoring and error handling built in.     
 
 ## ✅ Final Outcome:
 
@@ -107,6 +111,27 @@ PNG
 
    * Business-ready transformed datasets available in Synapse for BI tools.
 
+## ✅ Conclusion:
+
+This Azure End-to-End Data Engineering project provides a comprehensive, real-world simulation of how modern data pipelines are built using Microsoft's cloud ecosystem. By successfully integrating Azure Blob Storage, Data Factory, Databricks, and Synapse Analytics, the project demonstrates how raw data can be transformed into clean, query-ready, and analytics-driven datasets.
+
+Through this project, we have:
+
+🏗️ Designed a scalable data architecture suitable for handling structured data from various sources.
+
+🔁 Automated ingestion and transformation using Azure Data Factory and Databricks (PySpark).
+
+🧠 Applied real-time data processing logic with reusable and modular notebooks.
+
+🧱 Built a modern data warehouse with Azure Synapse for efficient querying and integration with BI tools.
+
+🔐 Implemented security best practices using Key Vault for secrets and credentials.
+
+📊 Enabled powerful reporting and dashboards with tools like Power BI or Synapse Studio.
+
+
+
+------------------------------------------------------------------------------ Thank You --------------------------------------------------------------------------
 
 
 
